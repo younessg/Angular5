@@ -1,0 +1,11 @@
+.content {
+    border: 1px solid;
+    padding: 0.5em;
+    box-shadow: 5px 5px #00925a;
+    margin: 1em;
+}
+
+.comp {
+    font-weight: bold;
+    color: #00925a;
+}
